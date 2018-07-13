@@ -1,0 +1,43 @@
+c:\users\andrea.gianni-pc\documents\visual studio 2015\Projects\Launchpad\Launchpad\bin\Debug\Launchpad.exe.config
+c:\users\andrea.gianni-pc\documents\visual studio 2015\Projects\Launchpad\Launchpad\bin\Debug\Launchpad.exe
+c:\users\andrea.gianni-pc\documents\visual studio 2015\Projects\Launchpad\Launchpad\bin\Debug\Launchpad.pdb
+c:\users\andrea.gianni-pc\documents\visual studio 2015\Projects\Launchpad\Launchpad\bin\Debug\Launchpad.xml
+c:\users\andrea.gianni-pc\documents\visual studio 2015\Projects\Launchpad\Launchpad\obj\Debug\Launchpad.vbprojResolveAssemblyReference.cache
+c:\users\andrea.gianni-pc\documents\visual studio 2015\Projects\Launchpad\Launchpad\obj\Debug\Launchpad.Form1.resources
+c:\users\andrea.gianni-pc\documents\visual studio 2015\Projects\Launchpad\Launchpad\obj\Debug\Launchpad.Resources.resources
+c:\users\andrea.gianni-pc\documents\visual studio 2015\Projects\Launchpad\Launchpad\obj\Debug\Launchpad.vbproj.GenerateResource.Cache
+c:\users\andrea.gianni-pc\documents\visual studio 2015\Projects\Launchpad\Launchpad\obj\Debug\Launchpad.exe
+c:\users\andrea.gianni-pc\documents\visual studio 2015\Projects\Launchpad\Launchpad\obj\Debug\Launchpad.xml
+c:\users\andrea.gianni-pc\documents\visual studio 2015\Projects\Launchpad\Launchpad\obj\Debug\Launchpad.pdb
+C:\Users\andrea.gianni-PC\Documents\Visual Studio 2015\Projects\Launchpad\Launchpad\obj\Debug\Launchpad.Help.resources
+C:\Users\andrea.gianni-PC\Documents\Visual Studio 2015\Projects\Launchpad\Launchpad\bin\Debug\Launchpad.exe.manifest
+C:\Users\andrea.gianni-PC\Documents\Visual Studio 2015\Projects\Launchpad\Launchpad\bin\Debug\Launchpad.application
+C:\Users\andrea.gianni-PC\Documents\Visual Studio 2015\Projects\Launchpad\Launchpad\obj\Debug\Launchpad.exe.manifest
+C:\Users\andrea.gianni-PC\Documents\Visual Studio 2015\Projects\Launchpad\Launchpad\obj\Debug\Launchpad.application
+\\192.168.1.1\pippo\Launchpad\Launchpad\bin\Debug\Launchpad.exe.config
+\\192.168.1.1\pippo\Launchpad\Launchpad\obj\Debug\Launchpad.exe
+\\192.168.1.1\pippo\Launchpad\Launchpad\obj\Debug\Launchpad.xml
+\\192.168.1.1\pippo\Launchpad\Launchpad\obj\Debug\Launchpad.pdb
+D:\lollol\Launchpad\Launchpad\bin\Debug\Launchpad.exe.config
+D:\lollol\Launchpad\Launchpad\obj\Debug\Launchpad.exe
+D:\lollol\Launchpad\Launchpad\obj\Debug\Launchpad.xml
+D:\lollol\Launchpad\Launchpad\obj\Debug\Launchpad.pdb
+D:\lollol\Launchpad\Launchpad\bin\Debug\Launchpad.exe.manifest
+D:\lollol\Launchpad\Launchpad\bin\Debug\Launchpad.application
+D:\lollol\Launchpad\Launchpad\bin\Debug\Launchpad.exe
+D:\lollol\Launchpad\Launchpad\bin\Debug\Launchpad.pdb
+D:\lollol\Launchpad\Launchpad\bin\Debug\Launchpad.xml
+D:\lollol\Launchpad\Launchpad\obj\Debug\Launchpad.vbprojResolveAssemblyReference.cache
+D:\lollol\Launchpad\Launchpad\obj\Debug\Launchpad.Form1.resources
+D:\lollol\Launchpad\Launchpad\obj\Debug\Launchpad.Help.resources
+D:\lollol\Launchpad\Launchpad\obj\Debug\Launchpad.Resources.resources
+D:\lollol\Launchpad\Launchpad\obj\Debug\Launchpad.vbproj.GenerateResource.Cache
+D:\lollol\Launchpad\Launchpad\obj\Debug\Launchpad.exe.manifest
+D:\lollol\Launchpad\Launchpad\obj\Debug\Launchpad.application
+D:\lollol\Launchpad\Launchpad\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\lollol\Launchpad\Launchpad\bin\Debug\it\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\lollol\Launchpad\Launchpad\obj\Debug\Interop.WMPLib.dll
+D:\lollol\Launchpad\Launchpad\obj\Debug\AxInterop.WMPLib.dll
+D:\lollol\Launchpad\Launchpad\obj\Debug\Launchpad.vbproj.ResolveComReference.cache
+D:\lollol\Launchpad\Launchpad\bin\Debug\Interop.WMPLib.dll
+D:\lollol\Launchpad\Launchpad\bin\Debug\AxInterop.WMPLib.dll
